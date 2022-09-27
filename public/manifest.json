@@ -9,6 +9,8 @@
     "minor": 0,
     "patch": 1
   },
+  "enableOnMobile": false,
+  "theme": [ "light" ],
   "description": "",
   "requestNative": false,
   "enableOnMobile": false,
