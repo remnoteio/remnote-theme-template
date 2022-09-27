@@ -1,10 +1,9 @@
 import { declareIndexPlugin, ReactRNPlugin } from '@remnote/plugin-sdk';
-import '../style.css';
-import '../App.css';
 
 async function onActivate(plugin: ReactRNPlugin) {
-  // For advanced themes you can offer settings to
-  // the user to control certain styles, eg: 
+  // For advanced themes you can **rename this file to index.tsx**
+  // (without the underscore) and offer settings to the user to
+  // control certain styles, eg: 
   //
   // await plugin.settings.registerBooleanSetting({
   //   id: "change-theme",
