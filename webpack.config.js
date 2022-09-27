@@ -55,6 +55,11 @@ const config = {
     ],
   },
   plugins: [
+    new CopyPlugin({
+      patterns: [
+        { from: "src/theme.css", to: "theme.css" },
+      ],
+    }),
     new MiniCssExtractPlugin({
       filename: 'App.css',
     }),
