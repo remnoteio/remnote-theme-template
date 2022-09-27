@@ -12,6 +12,7 @@
   "description": "",
   "requestNative": false,
   "enableOnMobile": false,
+  "theme": [],
   "requiredScopes": [
     {
       "type": "All",
