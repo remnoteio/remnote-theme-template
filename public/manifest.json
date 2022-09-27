@@ -11,10 +11,11 @@
   },
   "description": "",
   "requestNative": false,
+  "enableOnMobile": false,
   "requiredScopes": [
     {
       "type": "All",
-      "level": "ReadCreateModify"
+      "level": "Read"
     }
   ]
 }
