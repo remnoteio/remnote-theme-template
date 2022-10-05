@@ -1,0 +1,17 @@
+{
+  "manifestVersion": 1,
+  "id": "theme_template",
+  "name": "Theme Template",
+  "author": "RemNote",
+  "repoUrl": "",
+  "enableOnMobile": false,
+  "version": {
+    "major": 0,
+    "minor": 14,
+    "patch": 3
+  },
+  "theme": ["light"],
+  "description": "",
+  "requestNative": false,
+  "requiredScopes": []
+}
